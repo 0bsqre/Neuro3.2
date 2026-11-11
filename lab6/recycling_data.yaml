@@ -1,0 +1,13 @@
+path: C:\Users\Вадим\Desktop\DeepNeuro\Лабораторные2026\6_Image_detection\data
+
+train: images/train
+val: images/val
+test: images/test
+
+nc: 3
+
+# Classes
+names:
+  0: plastic_bottle
+  1: glass_bottle
+  2: aluminum_can
